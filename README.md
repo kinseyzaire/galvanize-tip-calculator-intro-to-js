@@ -26,12 +26,13 @@ By the end of this lesson you should be able to:
 
 Being able to keep your code organized is crucial to keeping the long-term cost of software development low.  Being able to refactor large functions that do multiple things into smaller functions that each do one thing well is one technique for lowering the long-term cost of software.
 
-## Activities
+## Get Set Up 
 
-**Get Setup**
-
-1. Move your existing Tip Calculator in to this repo
-1. Git add, commit, push
+* Move Tip Calculator Part 1 Into this Repo and Continue
+* From the command line, `cp` or `mv` your project files into this directory (not the whole directory, just the files) 
+* `git add, commit, and push`
+* Checkout a new branch `git checkout -b solution-part-2` and contiue working through the exercise.
+* As you acheive each new feature, merge your solution branch with `master` and push to GitHub
 
 ---
 
