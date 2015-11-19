@@ -30,17 +30,8 @@ Being able to keep your code organized is crucial to keeping the long-term cost 
 
 **Get Setup**
 
-1. Fork, clone, `cd` into this project and open it in your text editor
-1. Create a standard HTML project with the following files / folders:
-  * index.html
-  * css
-    * app.css
-  * js
-    * app.js
-1. Wire up the `js/app.js` and `css/app.css` files
-  - add a simple `console.log` in the js file to verify that it's included correctly
-  - add a simple style change, like a background color on `body`, to verify that it's referenced correctly
-1. In git, commit, push and start a a pull request
+1. Move your existing Tip Calculator in to this repo
+1. Git add, commit, push
 
 ---
 
@@ -63,7 +54,6 @@ Self-assess:
 
 - Check your work visually.  Does it match the wireframe?
 - Is your HTML valid according to https://validator.w3.org/nu/ ?
-  - Use the "text input" option and paste your HTML
   - If not, fix any errors and revalidate
 - Are you using inline styles or style elements to center the fields?  
   - If so, move any `style` attributes or `center` tags to the linked css file
@@ -214,7 +204,7 @@ What new questions do you have now that you've gone through this exercise?
 
 List at least 4 here:
 
-1. 
-1. 
-1. 
-1. 
+1.
+1.
+1.
+1.
