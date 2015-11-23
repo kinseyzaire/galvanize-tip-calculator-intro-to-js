@@ -1,3 +1,3 @@
-function calculator(a, b) {
-   console.log(a * b)
+function calculator(a,b) {
+   return a*b;
 }
