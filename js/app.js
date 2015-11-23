@@ -2,12 +2,10 @@ var button = document.getElementById("button");
 var price = document.getElementById('price');
 var amount = document.getElementById('amount');
 
-button.addEventListener("click", testingThem, false);
+button.addEventListener("click", calculateTip, false);
 
-
-
-function testingThem() {
+function calculateTip() {
    var tip = calculator(price.value,amount.value);
-   document.getElementById("tipThisMuch").innerText = "You should tip $" + tip;
+   document.getElementById("tipThisMuch").innerText = "You should tip $" + tip.toFixed(2);
 
 }
